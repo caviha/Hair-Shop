@@ -1,0 +1,145 @@
+body{
+  font-family:MV Boli;
+}
+
+#promo{
+  background-image:url(../../assets/img/salon2.jpg);
+  background-size:cover;
+  padding:40px;
+  text-align:center;
+  margin-top:65px;
+}
+
+@media (max-width:1199px) {
+  #promo{
+    padding:38px;
+  }
+}
+
+.jumbotron h1, .jumbotron .h1{
+  font-size:50PX;
+}
+
+.jumbotron{
+  border-radius:20px;
+  padding:40px;
+  opacity:.8;
+  max-width:860px;
+  margin:auto;
+}
+
+@media (max-width:1199px) {
+  #promo.jumbotron{
+    padding:38px;
+  }
+}
+
+h1{
+  font-family:font-awesome;
+}
+
+.site-container{
+  text-align:center;
+  padding-bottom:70px;
+}
+
+.site-container h1{
+  font-weight:initial;
+  margin-bottom:38px;
+  margin-top:68px;
+}
+
+#welcome p{
+  max-width:860px;
+  font-size:20px;
+  margin:auto;
+  color:#666;
+}
+
+i.fa.fa-money{
+  font-size:50px;
+  color:purple;
+}
+
+i.fa.fa-group{
+  font-size:50px;
+  color:purple;
+}
+
+i.fa.fa-qq{
+  font-size:50px;
+  color:purple;
+}
+
+h2{
+  font-size:26px;
+}
+
+.div-section{
+  background-color:#d9dff4;
+}
+
+#why.item{
+  padding:36px;
+}
+
+#why.item 1{
+  font-size:42px;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{
+  background-color:transparent;
+  border-color:transparent;
+  color:white;
+  border-radius:20px;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus{
+  color:rgb(255,255,255);
+  background-color:rgb(255,0,0);
+  border-radius:20px;
+}
+
+.navbar-nav > li > a:hover{
+  color:red;
+}
+
+#contactus{
+  background-image:url(../../assets/img/salon2.jpg);
+  background-size:cover;
+  padding:40px;
+  margin-top:65px;
+}
+
+h3.text-center{
+  color:white;
+}
+
+div#contact{
+  height:500px;
+  background-image:url(../../assets/img/salon2.jpg);
+}
+
+.navbar-inverse .navbar-nav > .active > a:hover{
+  color:white;
+  background-color:red;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+  color:white;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus{
+  color:#333333;
+  background-color:transparent;
+}
+
+.navbar-inverse .navbar-brand{
+  color:white;
+}
+
+.navbar-inverse{
+  background-color:black;
+  border-color:#dddddd;
+}
+
